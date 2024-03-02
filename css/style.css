@@ -284,12 +284,12 @@ a {
 
 /* START: trending media queries */
 @media screen and (max-width: 1024px) {
-  .trending-sushi {
+  .trending__sushi {
     flex-direction: column;
   }
 
-  .trending-drink {
-    flex-direction: column-reverse;
+  .trending__drinks {
+    flex-direction: column;
   }
 
   .trending__image {
